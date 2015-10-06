@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentários sobre: Início</title>
+	<atom:link href="http://telecentrostds.wilivro.com.br/?feed=rss2&#038;page_id=35" rel="self" type="application/rss+xml" />
+	<link>http://telecentrostds.wilivro.com.br</link>
+	<description>Telecentro de Inclusão Digital</description>
+	<lastBuildDate>Sun, 31 Aug 2014 01:01:02 +0000</lastBuildDate>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8</generator>
+	<item>
+		<title>Por: Julio Guimel Rodrigues dos Santos</title>
+		<link>http://telecentrostds.wilivro.com.br/?page_id=35#comment-6</link>
+		<dc:creator><![CDATA[Julio Guimel Rodrigues dos Santos]]></dc:creator>
+		<pubDate>Fri, 28 Mar 2014 11:11:44 +0000</pubDate>
+		<guid isPermaLink="false">http://telecentrostds.wilivro.com.br/?page_id=35#comment-6</guid>
+		<description><![CDATA[Bom dia!
+É um prazer ter você em um dos nossos telecentros,esperamos que você esteja gostando!
+Capacite-se vá e vença!
+Forte abraço!]]></description>
+		<content:encoded><![CDATA[<p>Bom dia!<br />
+É um prazer ter você em um dos nossos telecentros,esperamos que você esteja gostando!<br />
+Capacite-se vá e vença!<br />
+Forte abraço!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Julio Guimel Rodrigues dos Santos</title>
+		<link>http://telecentrostds.wilivro.com.br/?page_id=35#comment-5</link>
+		<dc:creator><![CDATA[Julio Guimel Rodrigues dos Santos]]></dc:creator>
+		<pubDate>Thu, 20 Mar 2014 12:12:25 +0000</pubDate>
+		<guid isPermaLink="false">http://telecentrostds.wilivro.com.br/?page_id=35#comment-5</guid>
+		<description><![CDATA[bom dia]]></description>
+		<content:encoded><![CDATA[<p>bom dia</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
